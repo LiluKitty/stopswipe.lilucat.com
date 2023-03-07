@@ -28,7 +28,7 @@ The app usage analytics collected is minimal but essential to help us run our bu
 * Device locale.
 * Device type, CPU architecture, and version of the operating system.
 
-We use Amplitude to collect and manage this data.
+We use MixPanel to collect and manage this data.
 
 
 ## Crash logs
