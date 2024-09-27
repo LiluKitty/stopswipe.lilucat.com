@@ -7,7 +7,7 @@ At Lilucat, we believe that the less information we know about you, the better. 
 
 
 ## Personal Data
-We don't collect and don't have access to the personal data that you save in Photo Vault App. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Photo Vault our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
+We don't collect and don't have access to the personal data that you save in Hide Apps by Lilucat. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Hide Apps by Lilucat our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
 
 
 ## Subscription validation
