@@ -1,1 +1,1 @@
-# qrcodereaderapp.lilucat.com
+# stopswipe.lilucat.com
